@@ -1,4 +1,4 @@
-## 👋🏻 Hi, my name is Gabriele and I'm a 💻 Computer Engineering student at Politecnico di Torino , specialized in Embedded Systems.
+## 👋🏻 Hi, my name is Gabriele and I'm a 💻 Computer Engineering student at Politecnico di Torino , specialized in ⚙️ Embedded Systems.
 
 This is my personal GitHub profile, where you can find some of the projects I've worked on. 
 
