@@ -2,6 +2,12 @@
 
 This is my personal GitHub profile, where you can find some of the projects I've worked on. 
 
+Here's a little bit more about me:
+
+- 📚 I'm currently finishing my second year of Master at Politecnico di Torino
+- 👷🏻‍♂️ looking for an internship to gain some real experience before diving into my first job
+
+
 <!--
 **TopGabri/TopGabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
