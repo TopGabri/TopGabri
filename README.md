@@ -7,6 +7,7 @@ Here's a little bit more about me:
 - 📚 I'm currently finishing my second year of Master at Politecnico di Torino
 - 👷🏻‍♂️ looking for an internship to gain some real experience before diving into my first job
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=topgabri&label=Profile%20views&color=0e75b6&style=flat" alt="topgabri" /> </p> -->
 
 <!--
 **TopGabri/TopGabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,6 +51,9 @@ Here are some ideas to get you started:
 ### 📲 My Social Networks
 
 <div align="center">
+  <a href="https://topgabri.github.io/my-portfolio-website/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/gabriele-arcidiacono/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
