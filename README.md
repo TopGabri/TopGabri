@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, my name is Gabriele and I'm a 💻 Computer Engineering student at Politecnico di Torino , specialized in ⚙️ Embedded Systems.
 
-This is my personal GitHub profile, where you can find some of the projects I've worked on. 
+This is my personal GitHub profile, where you can find some of the projects I've worked on and other personal stuff.
 
 Here's a little bit more about me:
 
@@ -51,9 +51,6 @@ Here are some ideas to get you started:
 ### 📲 My Social Networks
 
 <div align="center">
-  <a href="https://topgabri.github.io/my-portfolio-website/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/gabriele-arcidiacono/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
