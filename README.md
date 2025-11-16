@@ -45,7 +45,11 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" height="30" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Synopsys_Logo.svg/626px-Synopsys_Logo.svg.png?20210510165031" height="30" width="60" alt="siemens logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Siemens-logo.svg/1488px-Siemens-logo.svg.png?20130706103619" height="30" width="60"  alt="siemens logo"  />
 </div>
 
 ### 📲 My Social Networks
