@@ -1,12 +1,12 @@
-## 👋🏻 Hi, my name is Gabriele and I'm a 💻 Computer Engineering student at Politecnico di Torino , specialized in ⚙️ Embedded Systems.
+## 👋🏻 Hi, my name is Gabriele and I'm a 💻 Computer Engineering student at Politecnico di Torino , specializing in ⚙️ Embedded Systems.
 
 This is my personal GitHub profile, where you can find some of the projects I've worked on and other personal stuff.
 
-Here's a little bit more about me:
+<!-- Here's a little bit more about me: -->
 
-- 📚 I'm currently finishing my second year of Master at Politecnico di Torino
+<!-- - 📚 I'm currently finishing my second year of Master at Politecnico di Torino
 - 👷🏻‍♂️ looking for an internship to gain some real experience before diving into my first job
-
+-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=topgabri&label=Profile%20views&color=0e75b6&style=flat" alt="topgabri" /> </p> -->
 
 <!--
